@@ -2,6 +2,7 @@
 I analyzed restaurant sales data using SQL to help a business decide which menu items to keep, improve, or remove based on customer purchasing behavior.
 
 ## Data Source: Maven Analytics
+### [🏆 Check Out the full project](https://mavenshowcase.com/project/17809)
 
 ## Tools & Technologies
 - SQL
